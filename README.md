@@ -12,11 +12,11 @@ This lab is designed to bridge the gap between theoretical study and practical a
 
 ## Current Syllabus 
 I am currently progressing through the following competencies
-1.**Git & Github**
-2.**HTML5 & CSS3**
-3.**JavaScript & TypeScript**
-4.**Angular**
-5.**Firebase**
+1. **Git & Github**
+2. **HTML5 & CSS3**
+3. **JavaScript & TypeScript**
+4. **Angular**
+5. **Firebase**
 
 ---
 
